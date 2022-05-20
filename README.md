@@ -11,6 +11,8 @@
 
 Hướng dẫn
 
+example_source.html là nội dung html 1 trang mình crawl về để xem thử có giống với những gì thấy khi F12 trên website hay không (đôi khi có sự khác biệt nhỏ làm xPath không hoạt động)
+
 Trang web này không dùng Splash để click nút bấm được (hình dưới). Bạn có thể thử xem chứ lúc mình làm không được :D  
 
 ![img1](https://user-images.githubusercontent.com/105615288/169562908-696d7dcc-4dca-44a2-90f7-5af00a2ac220.png)
